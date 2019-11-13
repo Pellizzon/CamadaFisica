@@ -20,4 +20,6 @@
 
 - [x] Projeto 8 - Modulação AM
 
-- [ ] Projeto 9 - Modulação e demodulação digital
+- [x] Projeto 9 - Modulação e demodulação digital
+
+- [ ] Projeto 10
